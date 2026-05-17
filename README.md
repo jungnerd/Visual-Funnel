@@ -1,4 +1,4 @@
-# Visual Funnel: Resolving Contextual Blindness in Multimodal Large Language Models [CVPR 2026]
+# [CVPR 2026] Visual Funnel: Resolving Contextual Blindness in Multimodal Large Language Models
 
 Official implementation of **Visual Funnel**, a training-free inference method
 for visual question answering with multimodal large language models.
