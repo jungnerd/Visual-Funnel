@@ -1,0 +1,32 @@
+# Local agent/workspace metadata
+.agents/
+.codex/
+
+# Data and generated outputs
+data/
+playground/
+results/
+results_*/
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
